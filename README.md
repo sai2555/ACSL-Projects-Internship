@@ -1,0 +1,5 @@
+# ACSL-Projects-Internship
+ACSL Readme
+
+	American Computer Science League (ACSL), is a computer science and programming contest that I participated in last year and participating in this year. This contest has two parts to it. Part 1 is a written test of five questions that each person gets thirty minutes to complete. Topics that are on the test include Graph Theory, Bit String Flicking, Binary and other Base Conversions, LISP Programming, and Prefix/Infix/Postfix. Part 2 is the programming part of the contest. Competitors get three days to complete the programming prompt and receive five sample test cases as well. After submission, the project is tested against five test cases for a total of five points. The maximum a competitor could receive on the contest is 10 points.
+	There have been many of these contests over the past two years, and I have included three of the prompts that were given to me. In each folder, the source code is included along with the prompt. I coded these projects in Java using the Eclipse IDE and ran them with various test cases.
